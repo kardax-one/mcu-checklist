@@ -35,7 +35,7 @@
     "width": 1000,
     "height": 1500
   },
-  "A Funny Thing Happened on the Way to Thor\u2019s Hammer": {
+  "A Funny Thing Happened on the Way to Thor’s Hammer": {
     "url": "https://images.justwatch.com/poster/260436088/s718/a-funny-thing-happened-on-the-way-to-thors-hammer.jpg",
     "source": "https://www.justwatch.com/us/movie/a-funny-thing-happened-on-the-way-to-thors-hammer",
     "width": 718,
@@ -502,10 +502,11 @@
     "height": 2221
   },
   "Inhumans season 1": {
-    "url": "https://www.impawards.com/tv/posters/inhumans_xxlg.jpg",
+    "url": "assets/posters/inhumans.jpg",
     "source": "https://www.impawards.com/tv/inhumans_xxlg.html",
-    "width": 1383,
-    "height": 2048
+    "width": 480,
+    "height": 711,
+    "originalUrl": "https://www.impawards.com/tv/posters/inhumans_xxlg.jpg"
   },
   "The Punisher season 1": {
     "url": "https://upload.wikimedia.org/wikipedia/en/2/21/The_Punisher_season_1_poster.jpg",
@@ -520,22 +521,25 @@
     "height": 371
   },
   "Runaways season 1": {
-    "url": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg",
+    "url": "assets/posters/runaways.jpg",
     "source": "https://www.impawards.com/tv/runaways_ver9_xxlg.html",
-    "width": 1945,
-    "height": 3000
+    "width": 467,
+    "height": 720,
+    "originalUrl": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg"
   },
   "Runaways season 2": {
-    "url": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg",
+    "url": "assets/posters/runaways.jpg",
     "source": "https://www.impawards.com/tv/runaways_ver9_xxlg.html",
-    "width": 1945,
-    "height": 3000
+    "width": 467,
+    "height": 720,
+    "originalUrl": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg"
   },
   "Runaways season 3": {
-    "url": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg",
+    "url": "assets/posters/runaways.jpg",
     "source": "https://www.impawards.com/tv/runaways_ver9_xxlg.html",
-    "width": 1945,
-    "height": 3000
+    "width": 467,
+    "height": 720,
+    "originalUrl": "https://www.impawards.com/tv/posters/runaways_ver9_xxlg.jpg"
   },
   "Cloak & Dagger season 1": {
     "url": "https://image.tmdb.org/t/p/original/pYnRJuBPEqZO1o4fcxBTgmKNHfy.jpg",
