@@ -1,6 +1,6 @@
 # The Road to Doomsday
 
-A local, buildless MCU checklist based on Digital Spy's November 11, 2026 guide.
+A buildless MCU checklist based on Digital Spy's November 11, 2026 guide.
 
 Open index.html directly, or serve this directory:
 
@@ -10,7 +10,7 @@ Then visit http://127.0.0.1:8765. No installation or build required.
 
 Progress is stored in the current browser's localStorage. Use the same browser and address to retain it. External poster images and Google Fonts need an internet connection; the checklist still works without them. Release order has 101 stories (including Slingshot, which the source only lists chronologically). Chronological order has 115 chapters, preserving episode splits. Watching a full season marks all chapters; watching all its chapters completes the season.
 
-Source order and dates are a snapshot, not a live release feed. Poster provenance is listed in posters.json and in the site's credits. No site has been published.
+Source order and dates are a snapshot, not a live release feed. Poster provenance is listed in posters.json and in the site's credits. Published with GitHub Pages at https://kardax-one.github.io/mcu-checklist/. Pages deploys automatically from the root of `main`.
 
 Use **Collapse all** and **Expand all** beside **Group by phase** to navigate quickly. Vertical phase dividers expand or collapse individual groups.
 
